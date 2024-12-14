@@ -30,7 +30,7 @@
 <!-- GitHub Stats & Profile Visits -->
 <h3 align="right">
     <a href="#-2" target="_blank" rel="noreferrer">
-        <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="mondalsurojit" />
+        <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="mondalsurojit" />
     </a>
 </h3>
 
