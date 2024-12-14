@@ -3,8 +3,7 @@
     <img src="https://www.digitalsolutionservices.com/img/services/web%20development.gif" alt="Banner Loading...">
 </a>
 
-<h1 align="center">Hi 👋, I'm Belal Hanafy Mohamed</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, I'm [Ahmed Ezzat](https://github.com/ahmadezzat472) <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> <h3 align="center">A passionate frontend developer from Egypt</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=belalhanafy&label=Profile%20views&color=0e75b6&style=flat" alt="belalhanafy" /> </p>
