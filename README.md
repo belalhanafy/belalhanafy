@@ -28,6 +28,12 @@
 
 
 <!-- GitHub Stats & Profile Visits -->
+<h3 align="right">
+    <a href="#-2" target="_blank" rel="noreferrer">
+        <img align="right" src="[https://github-readme-streak-stats.herokuapp.com/?user=mondalsurojit&theme=dark](https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif)" alt="mondalsurojit" />
+    </a>
+</h3>
+
 <h3 align="left">
     <a href="#-2" target="_blank" rel="noreferrer">
         <img src="https://komarev.com/ghpvc/?username=mondalsurojit&label=Profile%20Visits&color=f07d4c&style=plastic" alt="Profile Visits Counter" />
