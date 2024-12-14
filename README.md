@@ -5,22 +5,27 @@
 
 <!-- Heading Section -->
 <h1 align="center" id="h1">
+    <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35">
     Hello World 
     <a href="#h1" target="_blank" rel="noreferrer">
         <img src="https://media.tenor.com/nebZyl8oN7IAAAAi/wave-hello.gif" width="42" />
     </a>, 
-    I'm Surojit Mondal 
+    I'm Belal Hanafy 
     <a href="#h1" target="_blank" rel="noreferrer">
-        <img src="https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif" width="36" />
+        <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50">
     </a>
 </h1>
 
 <!-- Typing Animation Section -->
-<h2 align="center">
-    <a href="#h1">
-        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1500&color=F7F7F7&center=true&vCenter=true&random=false&width=450&lines=Aspiring+Full-stack+web+developer;Solving+problems+using+technology...!;From+India+😊" alt="Aspiring Full-stack web developer" />
+<h2 align="center" style="color: black;">
+    <a href="#h1" style="text-decoration: none; color: inherit;">
+        <img 
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1500&color=000000&center=true&vCenter=true&random=false&width=450&lines=Aspiring+Full-stack+web+developer;Solving+problems+using+technology...!;From+Egypt+😊" 
+            alt="Aspiring Full-stack web developer"
+        />
     </a>
 </h2>
+
 
 <!-- GitHub Stats & Profile Visits -->
 <h3 align="right">
