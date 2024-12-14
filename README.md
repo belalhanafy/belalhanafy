@@ -30,24 +30,24 @@
 <!-- GitHub Stats & Profile Visits -->
 <h3 align="right">
     <a href="#-2" target="_blank" rel="noreferrer">
-        <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="mondalsurojit" />
+        <img align="right" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="programmer" />
     </a>
 </h3>
 
 <h3 align="left">
     <a href="#-2" target="_blank" rel="noreferrer">
-        <img src="https://komarev.com/ghpvc/?username=mondalsurojit&label=Profile%20Visits&color=f07d4c&style=plastic" alt="Profile Visits Counter" />
+        <img src="https://komarev.com/ghpvc/?username=belalhanafy&label=Profile%20Visits&color=f07d4c&style=plastic" alt="Profile Visits Counter" />
     </a>
 </h3>
 
 <!-- About Me Section -->
 - 🌱 I’m currently learning **React, Next**
-- 
+  
 - 📫 How to reach me **belalHanafy373@gmail.com**
 
-- 🎓 **I'm a software Engineer Student who is passionate about studying software and solving problems, and I am interested in the web field and always try to improve my skills.**
+- 🎓 **I'm a Software Engineering student passionate about solving problems with technology. I'm interested in web development and constantly improving my skills.**
 
-- 👨‍💻 **<a href="https://mondalsurojit.github.io/Surojit/" target="_blank" rel="noreferrer">Portfolio Link</a>**
+- 👨‍💻 **<a href="https://yourportfolio.com" target="_blank" rel="noreferrer">Portfolio Link</a>**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1bfwB9c3SqftAPbZd0qelM5THKhNZxHpT/view?usp=sharing)
 
@@ -58,7 +58,7 @@
 </a>
 
 <!-- Skills Section -->
-<h2 align="left">My Skills💻</h2>
+<h2 align="left">My Skills 💻</h2>
 
 <!-- Coding Animation -->
 <a href="#my-skills" target="_blank" rel="noreferrer">
@@ -120,13 +120,13 @@
 <br>
 
 <!-- Connect With Me Section -->
-<h2 align="left">Connect With Me🤝</h2>
+<h2 align="left">Connect With Me 🤝</h2>
 <table>
     <thead>
         <tr>
-            <th><a href="https://linkedin.com/in/surojitmondal" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a></th>
-            <th><a href="https://instagram.com/surojit_mondal_memes" target="_blank"><img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" alt="Instagram" height="34" width="34" /></a></th>
-            <th><a href="mailto:surojitmondalit@gmail.com?subject=From%20GitHub" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="36" width="34" /></a></th>
+            <th><a href="https://linkedin.com/in/belalhanafy" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" alt="LinkedIn" height="30" width="30" /></a></th>
+            <th><a href="https://instagram.com/belalhanafy" target="_blank"><img src="https://png.pngtree.com/png-vector/20221018/ourmid/pngtree-instagram-icon-png-image_6315974.png" alt="Instagram" height="34" width="34" /></a></th>
+            <th><a href="mailto:belalHanafy373@gmail.com?subject=From%20GitHub" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/281/281769.png" alt="Email" height="36" width="34" /></a></th>
         </tr>
     </thead>
 </table>
@@ -136,13 +136,13 @@
 <h2 id="footer"></h2>
 <p>
     <a href="#footer" target="_blank" rel="noreferrer">
-        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mondalsurojit&show_icons=true&theme=dark&title_color=f07d4c&text_color=FFFFFF&locale=en&layout=compact" alt="Top Languages" />
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=belalhanafy&show_icons=true&theme=dark&title_color=f07d4c&text_color=FFFFFF&locale=en&layout=compact" alt="Top Languages" />
     </a>
 </p>
 
 <div>
     <a href="#footer" target="_blank" rel="noreferrer">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=mondalsurojit&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="GitHub Stats" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=belalhanafy&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="GitHub Stats" />
     </a>
 </div>
 
@@ -150,10 +150,3 @@
 <a href="#footer" target="_blank" rel="noreferrer">
     <img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" alt="Section Divider" width="100%" />
 </a>
-
-<!-- Contribution Snake Animation -->
-<div>
-    <a href="#footer" target="_blank" rel="noreferrer">
-        <img align="center" src="githubgridsnake.svg" alt="Watch a snake eat my contribution activity🐍" />
-    </a>
-</div>
