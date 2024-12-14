@@ -12,25 +12,22 @@ jobs:
 
     steps:
       # Checkout the repository
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v2
 
       # Generate the snake GIF and SVG
-      - uses: Platane/snk@v2
+      - uses: Platane/snk@master
         id: snake-gif
         with:
           github_user_name: belalhanafy
           gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
-      # Show the status of the build
-      - run: git status
-
       # Push changes to the repository (output branch)
       - name: Push changes
-        uses: ad-m/github-push-action@v0.5
+        uses: ad-m/github-push-action@master
         with:
           github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output  # Ensure this is the correct output branch for GitHub Pages
+          branch: master
           force: true
 
       # Deploy to GitHub Pages from the output branch
