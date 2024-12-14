@@ -20,7 +20,7 @@
 <h2 align="center" style="color: black;">
     <a href="#h1" style="text-decoration: none; color: inherit;">
         <img 
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1500&color=000000&center=true&vCenter=true&random=false&width=450&lines=Aspiring+Full-stack+web+developer;Solving+problems+using+technology...!;From+Egypt+😊" 
+            src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1500&color=000000&center=true&vCenter=true&random=false&width=450&lines=Aspiring-web+developer+Front-End;Solving+problems+using+technology...!;From+Egypt+😊" 
             alt="Aspiring Full-stack web developer"
         />
     </a>
@@ -41,13 +41,15 @@
 </h3>
 
 <!-- About Me Section -->
-- 🌱 I’m currently learning **React, Django**
+- 🌱 I’m currently learning **React, Next**
+- 
+- 📫 How to reach me **belalHanafy373@gmail.com**
 
-- 💬 Ask me about **Java, CSS**
-
-- 🎓 **B.Tech-IT'26** from **GGV, Bilaspur**
+- 🎓 **I'm a software Engineer Student who is passionate about studying software and solving problems, and I am interested in the web field and always try to improve my skills.**
 
 - 👨‍💻 **<a href="https://mondalsurojit.github.io/Surojit/" target="_blank" rel="noreferrer">Portfolio Link</a>**
+
+- 📄 Know about my experiences **<a href="[https://mondalsurojit.github.io/Surojit/](https://drive.google.com/file/d/1bfwB9c3SqftAPbZd0qelM5THKhNZxHpT/view?usp=drive_link)" target="_blank" rel="noreferrer">MY RESUME</a>**
 
 <!-- Section Divider -->
 <h3 id="my-skills"><h3>
