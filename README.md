@@ -49,7 +49,7 @@
 
 - 👨‍💻 **<a href="https://mondalsurojit.github.io/Surojit/" target="_blank" rel="noreferrer">Portfolio Link</a>**
 
-- 📄 Know about my experiences <a href="[https://mondalsurojit.github.io/Surojit/](https://drive.google.com/file/d/1bfwB9c3SqftAPbZd0qelM5THKhNZxHpT/view?usp=drive_link)" target="_blank" rel="noreferrer">MY RESUME</a>**
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1bfwB9c3SqftAPbZd0qelM5THKhNZxHpT/view?usp=sharing)
 
 <!-- Section Divider -->
 <h3 id="my-skills"><h3>
