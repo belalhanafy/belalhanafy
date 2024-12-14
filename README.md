@@ -79,15 +79,37 @@
 
 <br>
 
-
-<br>
-<br>
-<br>
-<br>
-<br>
-
 <!-- Footer Section with Stats -->
 <h2 id="footer"></h2>
 <p>
     <a href="#footer" target="_blank" rel="noreferrer">
-        <img align="left" src="https://
+        <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=belalhanafy&show_icons=true&theme=dark&title_color=f07d4c&text_color=FFFFFF&locale=en&layout=compact" alt="Top Languages" />
+    </a>
+</p>
+
+<div>
+    <a href="#footer" target="_blank" rel="noreferrer">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=belalhanafy&show_icons=true&theme=dark&title_color=f07d4c&text_color=ffffff&locale=en" alt="GitHub Stats" />
+    </a>
+</div>
+
+<!-- Section Divider -->
+<a href="#footer" target="_blank" rel="noreferrer">
+    <img src="https://camo.githubusercontent.com/525201e24fcf0d7d87f167b8f972bf33242f0588d8bb426b7df5e2911bcc609a/68747470733a2f2f7777772e616e696d61746564696d616765732e6f72672f646174612f6d656469612f3536322f616e696d617465642d6c696e652d696d6167652d303138342e676966" alt="Section Divider" width="100%" />
+</a>
+
+<!-- Contribution Snake Animation -->
+<div>
+    <a href="#footer" target="_blank" rel="noreferrer">
+        <img align="center" src="githubgridsnake.svg" alt="Watch a snake eat my contribution activity🐍" />
+    </a>
+</div>
+
+<!-- Thank You Message -->
+<h3></h3>
+<div align="center">
+    <a href="#footer" target="_blank" rel="noreferrer">
+        <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" />
+    </a> 
+    <strong>Thank you so much for coming here 🙏</strong>
+</div>
