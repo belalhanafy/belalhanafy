@@ -132,30 +132,6 @@
 </table>
 <br>
 
-<!-- Badges Section -->
-<h2>Badges🎖️</h2>
-<details>
-    <summary><b>Holopin Badges 🦖</b></summary><br>
-    <a href="https://holopin.io/@mondalsurojit">
-        <img src="https://holopin.me/mondalsurojit" alt="Holopin Badges" />
-    </a>
-</details>
-<br>
-
-<details>
-    <summary><b>GSSoC'24 Badges 🪶</b></summary><br>
-    <div style='display:flex; align-items:center; gap: 20px;' align='center'>
-        <a href="https://gssoc.girlscript.tech/leaderboard">
-            <img src="https://gssoc.girlscript.tech/badges/postman.png?imwidth=256" width="100px" height="100px" alt="Postman Student Expert Badge"/>
-            <img src="https://gssoc.girlscript.tech/badges/1.png?imwidth=256" width="100px" height="100px" alt="Explorer Badge" />
-            <img src="https://gssoc.girlscript.tech/badges/2.png?imwidth=256" width="100px" height="100px" alt="Adventurer Badge"/>
-            <img src="https://gssoc.girlscript.tech/badges/3.png?imwidth=256" width="100px" height="100px" alt="Trailblazer Badge"/>
-            <img src="https://gssoc.girlscript.tech/badges/4.png?imwidth=256" width="100px" height="100px" alt="Summit Seeker Badge"/>
-            <img src="https://gssoc.girlscript.tech/badges/5.png?imwidth=256" width="100px" height="100px" alt="Champion Badge"/>
-        </a>
-    </div>
-</details>
-
 <!-- Footer Section with Stats -->
 <h2 id="footer"></h2>
 <p>
