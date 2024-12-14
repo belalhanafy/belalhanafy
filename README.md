@@ -26,7 +26,6 @@
     </a>
 </h2>
 
-
 <!-- GitHub Stats & Profile Visits -->
 <h3 align="right">
     <a href="#-2" target="_blank" rel="noreferrer">
