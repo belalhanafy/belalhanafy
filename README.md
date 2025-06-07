@@ -17,14 +17,7 @@
 </h1>
 
 <!-- Typing Animation Section -->
-<p align="center">
-  <a href="#h1">
-    <img 
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1500&color=000000&center=true&vCenter=true&random=false&width=450&lines=Aspiring-web+developer+Front-End;Solving+problems+using+technology...!;From+Egypt+😊" 
-      alt="Typing SVG"
-    />
-  </a>
-</p>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=600&lines=Front-End+Developer+%7C+React.js+Specialist;Turning+ideas+into+interactive+web+experiences;Passionate+about+Clean+%26+Responsive+Design+%F0%9F%8E%A8;Skilled+in+Problem+Solving+%F0%9F%A7%A0;Clean+code.+Smart+solutions.+Pixel-perfect+UI.;From+Egypt" alt="Typing SVG" /></a>
 
 
 <!-- GitHub Stats & Profile Visits -->
