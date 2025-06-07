@@ -17,14 +17,15 @@
 </h1>
 
 <!-- Typing Animation Section -->
-<h2 align="center" style="color: black;">
-    <a href="#h1" style="text-decoration: none; color: inherit;">
-        <img 
-            src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1500&color=000000&center=true&vCenter=true&random=false&width=450&lines=Aspiring-web+developer+Front-End;Solving+problems+using+technology...!;From+Egypt+😊" 
-            alt="Aspiring Full-stack web developer"
-        />
-    </a>
-</h2>
+<p align="center">
+  <a href="#h1">
+    <img 
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&duration=4000&pause=1500&color=000000&center=true&vCenter=true&random=false&width=450&lines=Aspiring-web+developer+Front-End;Solving+problems+using+technology...!;From+Egypt+😊" 
+      alt="Typing SVG"
+    />
+  </a>
+</p>
+
 
 <!-- GitHub Stats & Profile Visits -->
 <h3 align="right">
