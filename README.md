@@ -46,7 +46,7 @@
 
 - 🎓 **I'm a Software Engineering student passionate about solving problems with technology. I'm interested in web development and constantly improving my skills.**
 
-- 👨‍💻 **<a href="https://yourportfolio.com" target="_blank" rel="noreferrer">Portfolio Link</a>**
+- 👨‍💻 **<a href="https://portfolio-ten-henna-78.vercel.app/" target="_blank" rel="noreferrer">Portfolio Link</a>**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1bfwB9c3SqftAPbZd0qelM5THKhNZxHpT/view?usp=sharing)
 
