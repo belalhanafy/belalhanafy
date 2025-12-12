@@ -48,7 +48,7 @@
 
 - 👨‍💻 **<a href="https://portfolio-ten-henna-78.vercel.app/" target="_blank" rel="noreferrer">Portfolio Link</a>**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1bfwB9c3SqftAPbZd0qelM5THKhNZxHpT/view?usp=sharing)
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1ncEMaghIMl9zkoXwPFjpY06l4d-awBcr/view?usp=sharing)
 
 <!-- Section Divider -->
 <h3 id="my-skills"><h3>
